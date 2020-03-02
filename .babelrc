@@ -1,0 +1,10 @@
+{
+    // "presets": [
+    //   ["es2015", { "modules": false }],
+    //   "react"
+    // ],
+    "presets": ["@babel/env", "@babel/react"],
+    "plugins": [
+        "react-hot-loader/babel"
+      ]
+  }
