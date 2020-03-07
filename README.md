@@ -6,7 +6,7 @@
 
 `npm install react react-dom react-redux redux redux-thunk`
 
-`npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader file-loader react-hot-loader webpack webpack-dev-server`
+`npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader file-loader react-hot-loader webpack@2.1.0-beta.27 webpack-dev-server@2.1.0-beta.11`
 
 Additionally with the deprecation es2015 the .babelrc file will be updated as follows:
 

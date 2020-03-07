@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { connect } from 'react-redux';
-import {setCharacter} from '../reducer/character'
+// import {setCharacter} from '../reducer/character'
 import { setCurrentCharacter, getCharacterProfile } from '../reducer/character/actions';
 
 const CharacterList = ({ characters, setCharacter }) =>
